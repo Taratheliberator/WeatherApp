@@ -1,2 +1,1 @@
-# WeatherApp
-https://postimg.cc/Mnn7Xwvx
+[Weather-App.png](https://postimg.cc/Mnn7Xwvx)
